@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "hw-web-09"
+version = "0.1.0"
+description = ""
+authors = ["ArtemZhuravlev <Utah954@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+poetry = "^1.7.1"
+items = "^0.6.5"
+lxml = "^5.1.0"
+requests = "^2.31.0"
+sqlalchemy = "^2.0.25"
+scrapy = "^2.11.0"
+scrapyscript = "^1.1.5"
+selenium = "^4.17.2"
+playwright = "^1.41.1"
+mongoengine = "^0.27.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
