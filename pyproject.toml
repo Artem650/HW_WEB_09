@@ -17,6 +17,7 @@ scrapyscript = "^1.1.5"
 selenium = "^4.17.2"
 playwright = "^1.41.1"
 mongoengine = "^0.27.0"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
